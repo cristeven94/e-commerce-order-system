@@ -1,2 +1,2 @@
 # e-commerce-order-system
-Training microservices repository
+This repository is a training to hone my skills on microservices and hexagonal architecture patterns
