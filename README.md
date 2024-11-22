@@ -2,7 +2,7 @@
 This repository is a training to hone my skills on microservices and hexagonal architecture patterns
 ## Microservices Overview
 This project is composed by three services
-1. Order Service
+1. [Order Service](https://github.com/cristeven94/e-commerce-order-service)
 2. Inventory Service
 3. Notification Service
 ### Order Service
